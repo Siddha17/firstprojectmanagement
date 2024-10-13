@@ -1,0 +1,2 @@
+# firstprojectmanagement
+This repo includes milestones, issues, and project boards to demonstrate effective team collaboration and task tracking. This file involves managing bugs, feature requests, and tasks while using GitHub'sbuilt-in-tools for organizing and streamlining project workflows.
